@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, sans-serif;
   background-color: #F1FAEE;
   color: #1D3557;
   line-height: 1.6;
@@ -18,13 +18,13 @@ body {
   text-align: center;
 }
 
-.navbar a {
+.header .navbar a {
   color: #F1FAEE;
   text-decoration: none;
   margin: 0 10px;
 }
 
-.navbar a:hover {
+.header .navbar a:hover {
   text-decoration: underline;
 }
 
